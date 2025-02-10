@@ -8,22 +8,22 @@ public:
     float length() const;
     float lengthsqr() const;
 
-    float x, y;
+    float x, y, z;
 };
 
 class Point {
 public:
     Point AddVector(Vector v);
 
-    float x, y;
+    float x, y, z;
 };
 
 float Vector::length() const {
-    return sqrt(x * x + y * y);
+    return sqrt(x * x + y * y + z * z);
 }
 
 float Vector::lengthsqr() const {
-    return (x * x + y * y);
+    return (x * x + y * y + z * z);
 }
 
 Vector operator-(Point a, Point b) {
@@ -38,6 +38,7 @@ Point Point::AddVector(Vector v) {
     Point p2;
     p2.x = x + v.x;
     p2.y = y + v.y;
+    p2.z = z + v.z;
     return p2;
 }
 
@@ -46,14 +47,17 @@ int main (int argc, char** args) {
     Point p; // main point form we are calculating the distance
     p.x = 0;
     p.y = -1;
+    p.z = 0;
 
     Point i; //position of i
     i.x = 1;
     i.y = 1;
+    i.z = 0;
 
     Point c; //position of c
     c.x = 2;
     c.y = -1;
+    c.z = 0;
 
     Vector cp;
     Vector ip;
