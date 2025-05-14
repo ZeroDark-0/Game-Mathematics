@@ -30,7 +30,7 @@ Vector operator-(Point a, Point b) {
     Vector v;
     v.x = a.x - b.x;
     v.y = a.y - b.y;
-
+    v.z = a.z - b.z;
     return v;
 }
 
