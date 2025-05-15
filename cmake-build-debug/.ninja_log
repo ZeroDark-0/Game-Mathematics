@@ -1,12 +1,17 @@
 # ninja log v6
-3	64	7604050490528681	CMakeFiles/Game_Mathematics.dir/main.cpp.obj	227a2725e43173b
 1	493	7607949141302104	CMakeFiles/Game_Mathematics.dir/2.Character_movement_between_two_individual(vectors).cpp.obj	faa428ac3165a518
-405	507	7608706901124800	Game_Mathematics.exe	dda0f4b1336cf1af
-1	332	7607949296228522	CMakeFiles/Game_Mathematics.dir/1.Character_movement_(using_vector_and_physics).cpp.obj	868c4b499116805b
-3	404	7608706897093173	CMakeFiles/Game_Mathematics.dir/4._Distance_Comparison.cpp.obj	a79f467abc3e4fb8
-1	365	7608062263792780	CMakeFiles/Game_Mathematics.dir/3.Character_movement-3(Distance_between_the_two_character_in_vector).cpp.obj	ebf9e229d70a69a4
-0	366	7604062705689419	CMakeFiles/Game_Mathematics.dir/3.Distance_between_the_two_character(vector).cpp.obj	5d72a29234ed0b77
-1	243	7689218468290661	build.ninja	3753cd06c55b6e9f
-2	335	7689218468290661	build.ninja	3753cd06c55b6e9f
-0	628	7689219007552865	CMakeFiles/Game_Mathematics.dir/5._Character_Movement-4(Vector_Scaling).cpp.obj	bc60b5358145d2ad
+3	64	7604050490528681	CMakeFiles/Game_Mathematics.dir/main.cpp.obj	227a2725e43173b
 629	804	7689219013840052	Game_Mathematics.exe	a46f0d6539e7d2a2
+3	404	7608706897093173	CMakeFiles/Game_Mathematics.dir/4._Distance_Comparison.cpp.obj	a79f467abc3e4fb8
+1	332	7607949296228522	CMakeFiles/Game_Mathematics.dir/1.Character_movement_(using_vector_and_physics).cpp.obj	868c4b499116805b
+2	335	7690167437914955	build.ninja	3753cd06c55b6e9f
+0	366	7604062705689419	CMakeFiles/Game_Mathematics.dir/3.Distance_between_the_two_character(vector).cpp.obj	5d72a29234ed0b77
+1	365	7608062263792780	CMakeFiles/Game_Mathematics.dir/3.Character_movement-3(Distance_between_the_two_character_in_vector).cpp.obj	ebf9e229d70a69a4
+0	628	7689219007552865	CMakeFiles/Game_Mathematics.dir/5._Character_Movement-4(Vector_Scaling).cpp.obj	bc60b5358145d2ad
+0	301	7690167437914955	build.ninja	3753cd06c55b6e9f
+1	549	7690167438121477	CMakeFiles/Game_Mathematics.dir/6.Character_movement-5(Unit-Length_Vectors).cpp.obj	c7934315947ed021
+550	660	7690167443624070	Game_Mathematics.exe	e5c4ed0848bdb3eb
+3	525	7690167571293461	CMakeFiles/Game_Mathematics.dir/6.Character_movement-5(Unit-Length_Vectors).cpp.obj	c7934315947ed021
+525	644	7690167576505801	Game_Mathematics.exe	e5c4ed0848bdb3eb
+2	542	7690167834957878	CMakeFiles/Game_Mathematics.dir/6.Character_movement-5(Unit-Length_Vectors).cpp.obj	c7934315947ed021
+543	647	7690167840362804	Game_Mathematics.exe	e5c4ed0848bdb3eb
