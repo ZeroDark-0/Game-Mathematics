@@ -16,7 +16,7 @@ public:
     Vector operator*(float s) const;  //overload
     Vector operator/(float s) const;  //overload
 
-    Vector Normalized() const;
+    Vector Normalized() const; // normalized vector
     float x,y,z;
 
 };

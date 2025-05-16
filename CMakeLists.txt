@@ -10,5 +10,5 @@ add_executable(Game_Mathematics main.cpp
 #        "4. Distance Comparison.cpp"
 #        "5. Character Movement-4(Vector Scaling).cpp"
 #        "6.Character movement-5(Unit-Length Vectors).cpp"
-
+#        "7.Character movement-6(Adding Vector).cpp"
 )
