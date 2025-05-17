@@ -1,0 +1,9 @@
+// https://github.com/BSVino/DoubleAction //
+
+- in this is the Z axis is for the up and down
+-then we noralized the vector to make unit length vector
+-and then the direction
+-the velocity of the character
+-modifying the character speed //5.character movement - 4 vector scaling
+- and for the speedfraction
+technically this all combined is for the dive mechanics....
