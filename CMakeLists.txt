@@ -13,4 +13,7 @@ add_executable(Game_Mathematics main.cpp
 #        "7.Character movement-6(Adding Vector).cpp"
 #        "8.DoubleAction Source Code.txt"
 #        "9.-10. Backstabbing (Dot Product).cpp"
+#        "11.Jumping and Gravity (Time Delta, Game Loop).cpp"
+#        "12.Smooth Move(ment) (Linear Interpolation).cpp"
 )
+
