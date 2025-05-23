@@ -15,5 +15,6 @@ add_executable(Game_Mathematics main.cpp
 #        "09. - 10 Backstabbing (Dot Product).cpp"
 #        "11.Jumping and Gravity (Time Delta, Game Loop).cpp"
 #        "12.Smooth Move(ment) (Linear Interpolation).cpp"
+        "13.Mouse Control (Euler Angles).cpp"
 )
 
