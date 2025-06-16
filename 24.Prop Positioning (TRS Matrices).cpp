@@ -3,7 +3,7 @@
 using namespace std;
 
 
-bo.mTranform = mTranslate *mPlayerRotatioin * mPlayerScaling;
+box.mTranform = mTranslate *mPlayerRotatioin * mPlayerScaling;
 
 
 
