@@ -55,8 +55,14 @@ build CMakeFiles/Game_Mathematics.dir/main.cpp.obj: CXX_COMPILER__Game_Mathemati
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
   OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
 
-build CMakeFiles/Game_Mathematics.dir/22.Rotating_Characters_(Matrix_Rotation).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/22.Rotating$ Characters$ (Matrix$ Rotation).cpp || cmake_object_order_depends_target_Game_Mathematics
-  DEP_FILE = CMakeFiles\Game_Mathematics.dir\22.Rotating_Characters_(Matrix_Rotation).cpp.obj.d
+build CMakeFiles/Game_Mathematics.dir/23.Character_Movement_9_(Matrix_Translation).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/23.Character$ Movement$ 9$ (Matrix$ Translation).cpp || cmake_object_order_depends_target_Game_Mathematics
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\23.Character_Movement_9_(Matrix_Translation).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/24.Prop_Positioning_(TRS_Matrices).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/24.Prop$ Positioning$ (TRS$ Matrices).cpp || cmake_object_order_depends_target_Game_Mathematics
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\24.Prop_Positioning_(TRS_Matrices).cpp.obj.d
   FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
   OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
@@ -69,7 +75,7 @@ build CMakeFiles/Game_Mathematics.dir/22.Rotating_Characters_(Matrix_Rotation).c
 #############################################
 # Link the executable Game_Mathematics.exe
 
-build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/22.Rotating_Characters_(Matrix_Rotation).cpp.obj
+build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/23.Character_Movement_9_(Matrix_Translation).cpp.obj CMakeFiles/Game_Mathematics.dir/24.Prop_Positioning_(TRS_Matrices).cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
