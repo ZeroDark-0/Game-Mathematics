@@ -58,4 +58,6 @@ This repository is based on and inspired by the work found in:
 
 https://github.com/BSVino/MathForGameDevelopers/tree/frustum-culling
 
-The material there provides the conceptual foundation, while this project focuses on rebuilding and experimenting with those ideas through hands-on C++ implementation.
+This project focuses on rebuilding and experimenting with those ideas through hands-on C++ implementation.
+
+Here is the Playlist for the original series: [Playlist of Math for Game Developers](https://youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My&si=bZGn1kT52gzHBBeP)
