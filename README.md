@@ -21,6 +21,8 @@ This project focuses on the math that actually makes games work:
 - Matrices and transformations (translation, rotation, scale)
 - Coordinate systems
 - Collision and spatial tests
+- Frustum culling
+- Painter Algorithm, MergeSort
 
 The goal is not to be abstract or academic — the goal is to show how these ideas behave when turned into logic and systems.
 
