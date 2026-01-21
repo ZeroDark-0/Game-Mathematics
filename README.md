@@ -39,9 +39,7 @@ This repo is meant to serve as:
 
 ---
 
-## **Philosophy**
-
-Games run on math, but math only matters when it moves something, rotates something, or decides whether something collides.
+## **Status**
 
 This repository exists to make those invisible decisions visible.
 
