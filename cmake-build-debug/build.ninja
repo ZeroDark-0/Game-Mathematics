@@ -91,6 +91,13 @@ build CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj: CXX_COMPILE
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
   OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
 
+build CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_and_Vectors.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/34.Multiplying$ Quaternion$ -$ 35.Quaternion$ and$ Vectors.cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\34.Multiplying_Quaternion_-_35.Quaternion_and_Vectors.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Game_Mathematics
@@ -99,7 +106,7 @@ build CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable Game_Mathematics.exe
 
-build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/29.Frustum_Culling.cpp.obj CMakeFiles/Game_Mathematics.dir/30.Drawing_Transparent_Character_{Mergesort}.cpp.obj CMakeFiles/Game_Mathematics.dir/31.Axis-Angle_Rotation.cpp.obj CMakeFiles/Game_Mathematics.dir/32.Rotation_Quaternions.cpp.obj CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj
+build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/29.Frustum_Culling.cpp.obj CMakeFiles/Game_Mathematics.dir/30.Drawing_Transparent_Character_{Mergesort}.cpp.obj CMakeFiles/Game_Mathematics.dir/31.Axis-Angle_Rotation.cpp.obj CMakeFiles/Game_Mathematics.dir/32.Rotation_Quaternions.cpp.obj CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_and_Vectors.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

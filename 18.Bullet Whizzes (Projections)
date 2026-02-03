@@ -1,0 +1,30 @@
+Theory of Vector Projection: The Logic Behind the Math
+The "Bullet Whiz" problem is fundamentally about finding the shortest distance between a moving object (the bullet) and a stationary target (the player).
+
+1. Why Use Vector Projection?
+In a 3D environment, a bullet is just a point moving along a line. To play a sound at the right time, you need to know when the bullet is "level" with the player.
+
+We use projection to flatten the player's 3D position onto the bullet's 1D path.
+
+This allows us to ignore all the "extra" space and focus only on the progress the bullet has made relative to the player's location.
+
+2. The Key Point: The Right Angle
+The most important theoretical concept is that the shortest distance between a point and a line is always a straight, perpendicular line.
+
+If you draw a line from the player to the bullet's path, the moment that line forms a 90-degree angle with the path is the exact moment the bullet is closest.
+
+Vector projection is simply the tool we use to find that "90-degree intersection."
+
+3. The "Shadow" Analogy
+Think of the bullet’s path as the ground and the player as a floating object.
+
+Vector projection is like placing a sun directly above the player (perpendicular to the path).
+
+The shadow cast by the player onto the path is the "Projection."
+
+This shadow marks the exact spot on the trajectory where the "whiz" sound should be triggered.
+
+4. Why the Dot Product is Involved
+Conceptually, we use the Dot Product because it is a "comparison tool." It tells us how much one vector "overlaps" with another.
+
+It filters out the direction we don't care about (the distance away from the path) and keeps only the direction we do care about (the distance along the path).
