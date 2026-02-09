@@ -23,6 +23,7 @@ This project focuses on the math that actually makes games work:
 - Collision and spatial tests
 - Frustum culling
 - Painter Algorithm, MergeSort
+- Quaternion (Slerping, Interpolation, Multiplication, Inverse, Rotation)
 
 The goal is not to be abstract or academic — the goal is to show how these ideas behave when turned into logic and systems.
 

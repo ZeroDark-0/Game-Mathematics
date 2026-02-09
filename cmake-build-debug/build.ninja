@@ -56,6 +56,167 @@ build CMakeFiles/Game_Mathematics.dir/main.cpp.obj: CXX_COMPILER__Game_Mathemati
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
   OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
 
+build CMakeFiles/Game_Mathematics.dir/01.Character_movement-1(using_vector_and_physics).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/01.Character$ movement-1(using$ vector$ and$ physics).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\01.Character_movement-1(using_vector_and_physics).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/02.Character_movement-2_(between_two_individual_vectors).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/02.Character$ movement-2$ (between$ two$ individual$ vectors).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\02.Character_movement-2_(between_two_individual_vectors).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/03.Character_movement-3(Distance_between_the_two_character_in_vector).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/03.Character$ movement-3(Distance$ between$ the$ two$ character$ in$ vector).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\03.Character_movement-3(Distance_between_the_two_character_in_vector).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/04._Distance_Comparison.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/04.$ Distance$ Comparison.cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\04._Distance_Comparison.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/05._Character_Movement-4(Vector_Scaling).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/05.$ Character$ Movement-4(Vector$ Scaling).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\05._Character_Movement-4(Vector_Scaling).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/06.Character_movement-5(Unit-Length_Vectors).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/06.Character$ movement-5(Unit-Length$ Vectors).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\06.Character_movement-5(Unit-Length_Vectors).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/07.Character_movement-6(Adding_Vector).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/07.Character$ movement-6(Adding$ Vector).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\07.Character_movement-6(Adding_Vector).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/09._-_10_Backstabbing_(Dot_Product).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/09.$ -$ 10$ Backstabbing$ (Dot$ Product).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\09._-_10_Backstabbing_(Dot_Product).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/11.Jumping_and_Gravity_(Time_Delta,_Game_Loop).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/11.Jumping$ and$ Gravity$ (Time$ Delta,$ Game$ Loop).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\11.Jumping_and_Gravity_(Time_Delta,_Game_Loop).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/12.Smooth_Move(ment)_(Linear_Interpolation).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/12.Smooth$ Move(ment)$ (Linear$ Interpolation).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\12.Smooth_Move(ment)_(Linear_Interpolation).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/13.Mouse_Control_(Euler_Angles).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/13.Mouse$ Control$ (Euler$ Angles).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\13.Mouse_Control_(Euler_Angles).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/14.Character_Movement_7_(Cross_Product).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/14.Character$ Movement$ 7$ (Cross$ Product).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\14.Character_Movement_7_(Cross_Product).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/15-16.Bullet_Collision_(Vector-AABB_Intersection).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/15-16.Bullet$ Collision$ (Vector-AABB$ Intersection).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\15-16.Bullet_Collision_(Vector-AABB_Intersection).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/17._Explosions!_(The_Remap_Function).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/17.$ Explosions!$ (The$ Remap$ Function).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\17._Explosions!_(The_Remap_Function).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/19._Billboarding_(Basis_Vectors).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/19.$ Billboarding$ (Basis$ Vectors).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\19._Billboarding_(Basis_Vectors).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/20._Character_Movement_8_(Matrices).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/20.$ Character$ Movement$ 8$ (Matrices).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\20._Character_Movement_8_(Matrices).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/21._Big_Boss_Enemy_(Matrix_Scaling).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/21.$ Big$ Boss$ Enemy$ (Matrix$ Scaling).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\21._Big_Boss_Enemy_(Matrix_Scaling).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/22.Rotating_Characters_(Matrix_Rotation).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/22.Rotating$ Characters$ (Matrix$ Rotation).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\22.Rotating_Characters_(Matrix_Rotation).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/23.Character_Movement_9_(Matrix_Translation).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/23.Character$ Movement$ 9$ (Matrix$ Translation).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\23.Character_Movement_9_(Matrix_Translation).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/24.Prop_Positioning_(TRS_Matrices).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/24.Prop$ Positioning$ (TRS$ Matrices).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\24.Prop_Positioning_(TRS_Matrices).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/25-26.Updated_Bullet_Collisions_1-2_(Coordinate_Systems).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/25-26.Updated$ Bullet$ Collisions$ 1-2$ (Coordinate$ Systems).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\25-26.Updated_Bullet_Collisions_1-2_(Coordinate_Systems).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/27.Bullet_Collision_Part_3_(Line-Plane_Intersection).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/27.Bullet$ Collision$ Part$ 3$ (Line-Plane$ Intersection).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\27.Bullet_Collision_Part_3_(Line-Plane_Intersection).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/28.Adding_and_Removing_Character_(Entity_List).cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/28.Adding$ and$ Removing$ Character$ (Entity$ List).cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\28.Adding_and_Removing_Character_(Entity_List).cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
 build CMakeFiles/Game_Mathematics.dir/29.Frustum_Culling.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/29.Frustum$ Culling.cpp || cmake_object_order_depends_target_Game_Mathematics
   CONFIG = Debug
   DEP_FILE = CMakeFiles\Game_Mathematics.dir\29.Frustum_Culling.cpp.obj.d
@@ -98,6 +259,27 @@ build CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_
   OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
   OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
 
+build CMakeFiles/Game_Mathematics.dir/36.Slerping_Quaternions_-_37.Quaternion_Wrapup_and_Review.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/36.Slerping$ Quaternions$ -$ 37.Quaternion$ Wrapup$ and$ Review.cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\36.Slerping_Quaternions_-_37.Quaternion_Wrapup_and_Review.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/38.Faster_Matrix_Inversions.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/38.Faster$ Matrix$ Inversions.cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\38.Faster_Matrix_Inversions.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
+build CMakeFiles/Game_Mathematics.dir/39.The_Camera_View_Transform_Matrix.cpp.obj: CXX_COMPILER__Game_Mathematics_unscanned_Debug E$:/Game$ Mathematics/39.The$ Camera$ View$ Transform$ Matrix.cpp || cmake_object_order_depends_target_Game_Mathematics
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Game_Mathematics.dir\39.The_Camera_View_Transform_Matrix.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Game_Mathematics.dir
+  OBJECT_FILE_DIR = CMakeFiles\Game_Mathematics.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Game_Mathematics
@@ -106,7 +288,7 @@ build CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_
 #############################################
 # Link the executable Game_Mathematics.exe
 
-build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/29.Frustum_Culling.cpp.obj CMakeFiles/Game_Mathematics.dir/30.Drawing_Transparent_Character_{Mergesort}.cpp.obj CMakeFiles/Game_Mathematics.dir/31.Axis-Angle_Rotation.cpp.obj CMakeFiles/Game_Mathematics.dir/32.Rotation_Quaternions.cpp.obj CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_and_Vectors.cpp.obj
+build Game_Mathematics.exe: CXX_EXECUTABLE_LINKER__Game_Mathematics_Debug CMakeFiles/Game_Mathematics.dir/main.cpp.obj CMakeFiles/Game_Mathematics.dir/01.Character_movement-1(using_vector_and_physics).cpp.obj CMakeFiles/Game_Mathematics.dir/02.Character_movement-2_(between_two_individual_vectors).cpp.obj CMakeFiles/Game_Mathematics.dir/03.Character_movement-3(Distance_between_the_two_character_in_vector).cpp.obj CMakeFiles/Game_Mathematics.dir/04._Distance_Comparison.cpp.obj CMakeFiles/Game_Mathematics.dir/05._Character_Movement-4(Vector_Scaling).cpp.obj CMakeFiles/Game_Mathematics.dir/06.Character_movement-5(Unit-Length_Vectors).cpp.obj CMakeFiles/Game_Mathematics.dir/07.Character_movement-6(Adding_Vector).cpp.obj CMakeFiles/Game_Mathematics.dir/09._-_10_Backstabbing_(Dot_Product).cpp.obj CMakeFiles/Game_Mathematics.dir/11.Jumping_and_Gravity_(Time_Delta,_Game_Loop).cpp.obj CMakeFiles/Game_Mathematics.dir/12.Smooth_Move(ment)_(Linear_Interpolation).cpp.obj CMakeFiles/Game_Mathematics.dir/13.Mouse_Control_(Euler_Angles).cpp.obj CMakeFiles/Game_Mathematics.dir/14.Character_Movement_7_(Cross_Product).cpp.obj CMakeFiles/Game_Mathematics.dir/15-16.Bullet_Collision_(Vector-AABB_Intersection).cpp.obj CMakeFiles/Game_Mathematics.dir/17._Explosions!_(The_Remap_Function).cpp.obj CMakeFiles/Game_Mathematics.dir/19._Billboarding_(Basis_Vectors).cpp.obj CMakeFiles/Game_Mathematics.dir/20._Character_Movement_8_(Matrices).cpp.obj CMakeFiles/Game_Mathematics.dir/21._Big_Boss_Enemy_(Matrix_Scaling).cpp.obj CMakeFiles/Game_Mathematics.dir/22.Rotating_Characters_(Matrix_Rotation).cpp.obj CMakeFiles/Game_Mathematics.dir/23.Character_Movement_9_(Matrix_Translation).cpp.obj CMakeFiles/Game_Mathematics.dir/24.Prop_Positioning_(TRS_Matrices).cpp.obj CMakeFiles/Game_Mathematics.dir/25-26.Updated_Bullet_Collisions_1-2_(Coordinate_Systems).cpp.obj CMakeFiles/Game_Mathematics.dir/27.Bullet_Collision_Part_3_(Line-Plane_Intersection).cpp.obj CMakeFiles/Game_Mathematics.dir/28.Adding_and_Removing_Character_(Entity_List).cpp.obj CMakeFiles/Game_Mathematics.dir/29.Frustum_Culling.cpp.obj CMakeFiles/Game_Mathematics.dir/30.Drawing_Transparent_Character_{Mergesort}.cpp.obj CMakeFiles/Game_Mathematics.dir/31.Axis-Angle_Rotation.cpp.obj CMakeFiles/Game_Mathematics.dir/32.Rotation_Quaternions.cpp.obj CMakeFiles/Game_Mathematics.dir/33.Quaternion_Inverse.cpp.obj CMakeFiles/Game_Mathematics.dir/34.Multiplying_Quaternion_-_35.Quaternion_and_Vectors.cpp.obj CMakeFiles/Game_Mathematics.dir/36.Slerping_Quaternions_-_37.Quaternion_Wrapup_and_Review.cpp.obj CMakeFiles/Game_Mathematics.dir/38.Faster_Matrix_Inversions.cpp.obj CMakeFiles/Game_Mathematics.dir/39.The_Camera_View_Transform_Matrix.cpp.obj
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

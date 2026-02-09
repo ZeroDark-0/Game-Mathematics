@@ -11,7 +11,7 @@ add_executable(Game_Mathematics main.cpp
         "05. Character Movement-4(Vector Scaling).cpp"
         "06.Character movement-5(Unit-Length Vectors).cpp"
         "07.Character movement-6(Adding Vector).cpp"
-        08.DoubleAction Source Code.txt
+        "08.DoubleAction Source Code.txt"
         "09. - 10 Backstabbing (Dot Product).cpp"
         "09. - 10 Backstabbing (Dot Product).cpp"
         "11.Jumping and Gravity (Time Delta, Game Loop).cpp"
@@ -20,7 +20,7 @@ add_executable(Game_Mathematics main.cpp
         "14.Character Movement 7 (Cross Product).cpp"
         "15-16.Bullet Collision (Vector-AABB Intersection).cpp"
         "17. Explosions! (The Remap Function).cpp"
-        18.Bullet Whizzes (Projections)
+        "18.Bullet Whizzes (Projections)"
         "19. Billboarding (Basis Vectors).cpp"
         "20. Character Movement 8 (Matrices).cpp"
         "21. Big Boss Enemy (Matrix Scaling).cpp"
@@ -38,7 +38,7 @@ add_executable(Game_Mathematics main.cpp
         "34.Multiplying Quaternion - 35.Quaternion and Vectors.cpp"
         "36.Slerping Quaternions - 37.Quaternion Wrapup and Review.cpp"
         "38.Faster Matrix Inversions.cpp"
-
+        "39.The Camera View Transform Matrix.cpp"
 
 )
 
