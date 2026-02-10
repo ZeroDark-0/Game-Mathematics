@@ -39,6 +39,9 @@ add_executable(Game_Mathematics main.cpp
         "36.Slerping Quaternions - 37.Quaternion Wrapup and Review.cpp"
         "38.Faster Matrix Inversions.cpp"
         "39.The Camera View Transform Matrix.cpp"
+        "40.Matrix Transformations (Merry-Go-Round).cpp"
+        "41.Move Parents.cpp"
+        "42.Homogenous Coordinates.cpp"
 
 )
 
