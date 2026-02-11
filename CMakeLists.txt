@@ -42,6 +42,7 @@ add_executable(Game_Mathematics main.cpp
         "40.Matrix Transformations (Merry-Go-Round).cpp"
         "41.Move Parents.cpp"
         "42.Homogenous Coordinates.cpp"
+        "43.Prespective Matrix - 44.Damage Indicators.cpp"
 
 )
 
